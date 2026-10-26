@@ -1,0 +1,46 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments & Dependencies
+.venv/
+venv/
+env/
+
+# App Temporary / Uploaded Files
+uploaded_image.jpg
+*.tmp
+
+# Deep Learning Models (Place in GitHub Releases instead)
+models/
+*.keras
+*.h5
+*.pkl
+*.pt
+*.pth
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+.env.local
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
